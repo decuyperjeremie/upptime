@@ -1,0 +1,34 @@
+[
+  {
+    "name": "jeremiedecuyper.com",
+    "url": "https://jeremiedecuyper.com",
+    "slug": "jeremiedecuyper-com",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 716
+  },
+  {
+    "name": "chloeclaverie.com",
+    "url": "https://www.chloeclaverie.com",
+    "slug": "chloeclaverie-com",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 778
+  },
+  {
+    "name": "boutiquedesanges.fr",
+    "url": "https://boutiquedesanges.fr",
+    "slug": "boutiquedesanges-fr",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1189
+  },
+  {
+    "name": "shop.boutiquedesanges.fr",
+    "url": "https://shop.boutiquedesanges.fr/fr",
+    "slug": "shop-boutiquedesanges-fr",
+    "status": "down",
+    "uptime": "100.00",
+    "time": 1188
+  }
+]
