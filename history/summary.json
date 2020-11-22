@@ -5,7 +5,7 @@
     "slug": "jeremiedecuyper-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 717
+    "time": 716
   },
   {
     "name": "chloeclaverie.com",
@@ -13,7 +13,7 @@
     "slug": "chloeclaverie-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 778
+    "time": 769
   },
   {
     "name": "boutiquedesanges.fr",
@@ -21,7 +21,7 @@
     "slug": "boutiquedesanges-fr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1141
+    "time": 1131
   },
   {
     "name": "shop.boutiquedesanges.fr",
@@ -29,7 +29,7 @@
     "slug": "shop-boutiquedesanges-fr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1230
+    "time": 1286
   },
   {
     "name": "lesmainsdelapotiere.com",
@@ -37,7 +37,7 @@
     "slug": "lesmainsdelapotiere-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 253
+    "time": 288
   },
   {
     "name": "maisonpapillon.fr",
@@ -45,6 +45,6 @@
     "slug": "maisonpapillon-fr",
     "status": "up",
     "uptime": "100.00",
-    "time": 375
+    "time": 421
   }
 ]
