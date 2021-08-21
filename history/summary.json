@@ -94,17 +94,17 @@
     "url": "https://www.maisonpapillon.fr",
     "icon": "https://favicons.githubusercontent.com/www.maisonpapillon.fr",
     "slug": "maisonpapillon-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 751,
-    "timeWeek": 428,
-    "timeMonth": 411,
-    "timeYear": 453,
+    "time": 452,
+    "timeDay": 532,
+    "timeWeek": 414,
+    "timeMonth": 408,
+    "timeYear": 452,
     "dailyMinutesDown": {}
   }
 ]
